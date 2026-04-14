@@ -183,7 +183,7 @@ form button{
 }
 #progress{
     height:1500px;
-    margin-left:100px;
+    margin-left:-100px;
 }
 #progress a{
     background: rgb(90, 70, 5);
